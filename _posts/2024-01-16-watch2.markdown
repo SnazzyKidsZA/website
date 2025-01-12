@@ -1,0 +1,7 @@
+---
+layout: product
+image: "images/p7.png"
+imageText: "Watch"
+price: "R14000"
+isNew: True
+---

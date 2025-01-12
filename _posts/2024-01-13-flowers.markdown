@@ -1,0 +1,7 @@
+---
+layout: product
+image: "images/p4.png"
+imageText: "Flowers"
+price: "R2000"
+isNew: True
+---

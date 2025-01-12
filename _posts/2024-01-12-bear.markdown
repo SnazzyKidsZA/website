@@ -1,8 +1,7 @@
 ---
-layout: blogpost
-date: 02-12-2019
+layout: product
 image: "images/p3.png"
 imageText: "Teddy Bear"
-price: "$111"
+price: "R111"
 isNew: False
 ---

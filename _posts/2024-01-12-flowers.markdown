@@ -1,8 +1,0 @@
----
-layout: blogpost
-date: 02-12-2019
-image: "images/p4.png"
-imageText: "Flower"
-price: "$2000"
-isNew: True
----

@@ -1,0 +1,7 @@
+---
+layout: product
+image: "images/p1.png"
+imageText: "Ring"
+price: "R8000"
+isNew: False
+---
