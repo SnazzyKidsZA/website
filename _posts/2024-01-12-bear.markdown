@@ -1,0 +1,8 @@
+---
+layout: blogpost
+date: 02-12-2019
+image: "images/p3.png"
+imageText: "Teddy Bear"
+price: "$111"
+isNew: False
+---
